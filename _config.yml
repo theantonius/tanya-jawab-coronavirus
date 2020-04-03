@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: [Pengetahuan Dasar Coronavirus]
 description: [Informasi dari CDC tentang coronavirus 2019 dan COVID-19]
-show_downloads: ["true"]
+show_downloads: ["false"]
+google_analytics: [UA-162718728-1]
