@@ -1,11 +1,10 @@
-## Download
-Pengetahuan Dasar Penyakit Coronavirus 2019 | [Unduh](/assets/pdfs/Pengetahuan_Dasar_Penyakit_Coronavirus_2019.pdf)
-Cara Melindungi Diri Sendiri Dari Coronavirus | [Unduh](/assets/pdfs/Cara_Melindungi_Diri_Sendiri_Dari_Coronavirus.pdf)
+## Unduh / Download
+### [Pengetahuan Dasar Penyakit Coronavirus 2019 ](/assets/pdfs/Pengetahuan_Dasar_Penyakit_Coronavirus_2019.pdf)
+Informasi ini diterjemahkan dari  "Coronavirus Disease 2019 (COVID-19): Frequently Asked Questions" yang dapat diakses di [situs web CDC](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+### [Cara Melindungi Diri Sendiri Dari Coronavirus](/assets/pdfs/Cara_Melindungi_Diri_Sendiri_Dari_Coronavirus.pdf)
+Informasi ini diterjemahkan dari "How to Protect Yourself & Others" yang dapat diakses di [situs web CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 
-Table Header 1 | Table Header 2 | Table Header 3
--------------- | -------------- | --------------
-Row 1 col 1 | Row 1 col 2 | Row 1 col 3
-Row 2 col 1 | Row 2 col 2 | Row 2 col 3
+
 
 ## About
 This site is where to find translations of the CDC Coronavirus Guidelines in Bahasa Indonesia.
