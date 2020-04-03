@@ -1,4 +1,4 @@
-# Download
+## Download
 Pengetahuan Dasar Penyakit Coronavirus 2019 | [Unduh](/assets/pdfs/Pengetahuan_Dasar_Penyakit_Coronavirus_2019.pdf)
 Cara Melindungi Diri Sendiri Dari Coronavirus | [Unduh](/assets/pdfs/Cara_Melindungi_Diri_Sendiri_Dari_Coronavirus.pdf)
 
