@@ -1,12 +1,11 @@
 ## Download
 ### [Pengetahuan Dasar Penyakit Coronavirus 2019](/assets/pdfs/Pengetahuan_Dasar_Penyakit_Coronavirus_2019.pdf)
-Informasi ini diterjemahkan dari  "Coronavirus Disease 2019 (COVID-19): Frequently Asked Questions" yang dapat diakses di [situs web CDC](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+Informasi ini diterjemahkan dari  "Coronavirus Disease 2019 (COVID-19): Frequently Asked Questions" yang dapat diakses di [situs web CDC](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) dari 28 Maret sampai 2 April, 2020.
 
 ### [Cara Melindungi Diri Sendiri Dari Coronavirus](/assets/pdfs/Cara_Melindungi_Diri_Sendiri_Dari_Coronavirus.pdf)
-Informasi ini diterjemahkan dari "How to Protect Yourself & Others" yang dapat diakses di [situs web CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+Informasi ini diterjemahkan dari "How to Protect Yourself & Others" yang dapat diakses di [situs web CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) dari 28 Maret sampai 2 April, 2020.
 
 ## Disclaimer dan Ucapan Terima Kasih
-Informasi ini diterjemahkan dari  "Coronavirus Disease 2019 (COVID-19): Frequently Asked Questions" yang dapat diakses di [situs web CDC](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) dari 28 Maret sampai 2 April, 2020.
 
 Dokumen ini ditulis sebagai tanggapan terhadap laporan bahwa [masyarakat di Elmhurst, Queens, New York, USA terkena COVID-19 pada tingkat yang sangat mengkhawatirkan](https://jacksonheightspost.com/doctor-elmhurst-residents-are-contracting-covid-19-at-an-alarming-rate). Tanggal 25 Maret 2020, 280 orang di Kota New York meninggal karena COVID-19. Dalam waktu satu minggu, tanggal 1 Aprìl 2020, 1.374 [orang meninggal dari COVID-19](https://www1.nyc.gov/site/doh/covid/covid-19-data.page).
 >"We don’t have the staff to cope with our in-patients but we need people like translators to get the message out to people, we don’t think the message is getting through,"
@@ -31,6 +30,6 @@ In the United States, there are over [113,000 Indonesian-Americans, and only 68%
 
 All the translation was done by volunteers, including: Pak Marc Benamou, Mas Daniel Owen, Mbak Diyah, Mbak Nana Islamiyatun, Pak Wayne Forrest, Bu Anne Stebinger, Mbak Maho Ishiguro, Mas Darsono, Bu Caroline Peni, Christiany Suwartono, Josephine Wiriadjaja, Agatha Hirst, and the members of Gamelan Kusuma Laras. Thank you to everyone, and apologies if we missed your name.
 
-For translations to other languages, visit https://covid19-translations-nyc.info/
+For translations to other languages, visit [https://covid19-translations-nyc.info/](https://covid19-translations-nyc.info/)
 
 For more information, please contact [antonius@nyu.edu](mailto:antonius@nyu.edu?Subject=Hindar%20Coronavirus) or WA: + 1 (347) 926 3267
